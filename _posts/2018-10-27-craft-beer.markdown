@@ -8,38 +8,86 @@ description:
 image: https://github.com/namkiseung/namki/blob/master/_screenshots/1.PNG?raw=true
 image-sm: https://picsum.photos/500/300?image=1003
 ---
-<pre style="padding: 9.5px; background-color: rgb(245, 245, 245); box-sizing: border-box; overflow: auto; font-family: Menlo, Monaco, Consolas, &quot;Courier New&quot;, monospace; margin-top: 0px; margin-bottom: 10px; line-height: 1.42857; color: rgb(51, 51, 51); word-break: break-all; overflow-wrap: break-word; border: 1px solid rgb(204, 204, 204); border-radius: 4px;"><p><span style="font-size: 24pt;">안녕하세요. 코딩 생각 할때마다 설레는 남기승 입니다. 프로그래밍 언어를 다루면서 진행했던 프로젝트 중 일부와 개인적인 자기PR을 하기 위해 포트폴리오를 작성하게 되었으니, 천천히 둘러보시기 바랍니다.</span></p></pre>
+안녕하세요. 코딩 생각 할때마다 설레는 남기승 입니다. 프로그래밍 언어를 다루면서 진행했던 프로젝트 중 일부와 개인적인 자기PR을 하기 위해 포트폴리오를 작성하게 되었으니, 천천히 둘러보시기 바랍니다.
 
 Coding Whenever I think about it, it is a surprise. As you work on the programming language, you are going to create a portfolio to do some self-PR with some of the projects that have been done, so please look around slowly.</pre>
-
+<br>
+<h3>소개</h3>
 <figure>
   <img src="https://github.com/namkiseung/namki/blob/master/_screenshots/2.PNG?raw=true" alt="Placeholder"/>
 </figure>
-
+<br>
 <ul>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
-
+<br>
+<h3>전문 기술</h3>
+<figure>
+  <img src="https://github.com/namkiseung/namki/blob/master/_screenshots/3.PNG?raw=true" alt="Placeholder"/>
+</figure>
+<br>
 <ol>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ol>
-
+<br>
+<h3>경력</h3>
+<figure>
+  <img src="https://github.com/namkiseung/namki/blob/master/_screenshots/4.PNG?raw=true" alt="Placeholder"/>
+</figure>
+<br>
 <h3>Subway tile</h3>
-Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table <a href="#">street art</a> fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
+<br>
+<h3>교육</h3>
+<figure>
+  <img src="https://github.com/namkiseung/namki/blob/master/_screenshots/5.PNG?raw=true" alt="Placeholder"/>
+</figure>
+<br>
 
+<br>
+<h3>SNS 어플만들기</h3>
+<figure>
+  <img src="https://github.com/namkiseung/namki/blob/master/_screenshots/6.PNG?raw=true" alt="Placeholder"/>
+</figure>
+<br>
+
+<br>
+<h3>메모장 포트폴리오</h3>
+<figure>
+  <img src="https://github.com/namkiseung/namki/blob/master/_screenshots/7.PNG?raw=true" alt="Placeholder"/>
+</figure>
+<br>
+
+<br>
+<h3>php 커뮤니티</h3>
+<figure>
+  <img src="https://github.com/namkiseung/namki/blob/master/_screenshots/8.PNG?raw=true" alt="Placeholder"/>
+</figure>
+<br>
+
+<br>
+<h3>모의해킹용 홈페이지</h3>
+<figure>
+  <img src="https://github.com/namkiseung/namki/blob/master/_screenshots/9.PNG?raw=true" alt="Placeholder"/>
+</figure>
+<br>
+
+<br>
+<h3>끝인사</h3>
+<figure>
+  <img src="https://github.com/namkiseung/namki/blob/master/_screenshots/10.PNG?raw=true" alt="Placeholder"/>
+</figure>
+<br>
 
 
 <figure>
   <img src="https://picsum.photos/2000/1200?image=1003" alt="Placeholder"/>
 </figure>
-
-Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.
 
 <blockquote>
   Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
@@ -47,13 +95,8 @@ Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-
 </blockquote>
 
 <h4>Subway tile</h4>
-Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.
 
-<figure>
+<!-- <figure>
   <img src="https://picsum.photos/2000/1200?image=1003" alt="Placeholder"/>
   <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
-</figure>
-
-Gluten-free la croix activated charcoal tousled, brunch semiotics sartorial mustache hashtag. Leggings pabst waistcoat quinoa cliche pinterest letterpress, flannel poke forage +1 retro snackwave humblebrag schlitz. Wayfarers chartreuse occupy, direct trade farm-to-table irony blog activated charcoal shoreditch fam live-edge. Intelligentsia scenester gochujang gentrify portland offal. Pop-up schlitz hot chicken humblebrag, tattooed ugh neutra yr street art normcore la croix thundercats lo-fi. Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af. Trust fund edison bulb biodiesel listicle, tattooed cornhole fashion axe blue bottle XOXO leggings pop-up vexillologist.
-
-Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90's kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.
+</figure> -->
