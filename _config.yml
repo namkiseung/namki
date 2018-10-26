@@ -1,0 +1,44 @@
+# Site/SEO settings
+email: 
+permalink: /:year/:month/:day/:title/
+google_analytics: 
+
+title: Trophy
+description: 
+url: ""
+baseurl: ""
+twitter_username: 
+default_img: 
+
+# Profile settings
+name: 
+profile_img: 
+profile: 
+social:
+  github: 
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - octopress-autoprefixer
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - _screenshots
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.txt
+  - README.md
+
+# Pagination
+paginate: 5
+paginate_path: "/blog/page-:num"
+
+# Sass
+sass:
+  style: compressed
