@@ -8,7 +8,7 @@ description:
 image: https://github.com/namkiseung/namki/blob/master/_screenshots/1.PNG?raw=true
 image-sm: https://picsum.photos/500/300?image=1003
 ---
-<pre>안녕하세요. 코딩 생각 할때마다 설레는 남기승 입니다. 프로그래밍 언어를 다루면서 진행했던 프로젝트 중 일부와 개인적인 자기PR을 하기 위해 포트폴리오를 작성하게 되었으니, 천천히 둘러보시기 바랍니다.
+<pre padding: 9.5px; background-color: rgb(245, 245, 245); box-sizing: border-box; overflow: auto; font-family: Menlo, Monaco, Consolas, "Courier New", monospace; margin-top: 0px; margin-bottom: 10px; line-height: 1.42857; color: rgb(51, 51, 51); word-break: break-all; overflow-wrap: break-word; border: 1px solid rgb(204, 204, 204); border-radius: 4px;>안녕하세요. 코딩 생각 할때마다 설레는 남기승 입니다. 프로그래밍 언어를 다루면서 진행했던 프로젝트 중 일부와 개인적인 자기PR을 하기 위해 포트폴리오를 작성하게 되었으니, 천천히 둘러보시기 바랍니다.
 
 Coding Whenever I think about it, it is a surprise. As you work on the programming language, you are going to create a portfolio to do some self-PR with some of the projects that have been done, so please look around slowly.</pre>
 
