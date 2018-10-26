@@ -31,7 +31,7 @@ Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug.
 </figure>
 <h1>aaa</h1>
 <figure>
-  <img src="./1.PNG" alt="Placeholder"/>
+  <img src="https://github.com/namkiseung/namki/blob/master/_screenshots/1.PNG?raw=true" alt="Placeholder"/>
 </figure>
 <figure>
   <img src="https://picsum.photos/2000/1200?image=1003" alt="Placeholder"/>
