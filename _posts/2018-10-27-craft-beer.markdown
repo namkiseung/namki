@@ -5,10 +5,10 @@ date: 2018-02-19
 categories:
   - portfolio
 description:
-image: https://picsum.photos/2000/1200?image=1003
+image: https://github.com/namkiseung/namki/blob/master/_screenshots/1.PNG?raw=true
 image-sm: https://picsum.photos/500/300?image=1003
 ---
-Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven't heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
+안녕하세요. 코딩 생각 할때마다 설레는 남기승 입니다. 프로그래밍 언어를 다루면서 진행했던 프로젝트 중 일부와 개인적인 자기PR을 하기 위해 포트폴리오를 작성하게 되었으니, 천천히 둘러보시기 바랍니다.
 
 <ul>
   <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
@@ -30,9 +30,7 @@ Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug.
   <img src="./_screenshots/1.PNG" alt="Placeholder"/>
 </figure>
 <h1>aaa</h1>
-<figure>
-  <img src="https://github.com/namkiseung/namki/blob/master/_screenshots/1.PNG?raw=true" alt="Placeholder"/>
-</figure>
+
 <figure>
   <img src="https://picsum.photos/2000/1200?image=1003" alt="Placeholder"/>
 </figure>
