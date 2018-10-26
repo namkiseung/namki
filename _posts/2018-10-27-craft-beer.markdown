@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Craft Beer"
+title: "Software Portfolio by namki"
 date: 2018-02-19
 categories:
-  - Juice
+  - portfolio
 description:
 image: https://picsum.photos/2000/1200?image=1003
 image-sm: https://picsum.photos/500/300?image=1003
@@ -26,7 +26,13 @@ Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos racle
 
 <h3>Subway tile</h3>
 Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table <a href="#">street art</a> fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
-
+<figure>
+  <img src="_screenshots/1.PNG" alt="Placeholder"/>
+</figure>
+<h1>aaa</h1>
+<figure>
+  <img src="1.PNG" alt="Placeholder"/>
+</figure>
 <figure>
   <img src="https://picsum.photos/2000/1200?image=1003" alt="Placeholder"/>
 </figure>
