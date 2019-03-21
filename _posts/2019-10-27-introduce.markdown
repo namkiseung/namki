@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Software Portfolio by namki"
+title: "Linkedid Profile by namki"
 date: 2019-02-19
 categories:
-  - portfolio
+  - Overview career.
 description:
 image: https://github.com/namkiseung/namki/blob/master/_screenshots/1.PNG?raw=true
 image-sm: https://github.com/namkiseung/namki/blob/master/_screenshots/1.PNG?raw=true
 ---
 
 <br>
-<h3>소개</h3>
+<h3></h3>
 <figure>
   <img src="https://github.com/namkiseung/namki/blob/master/_screenshots/Linkedin 001.png?raw=true" alt="Placeholder"/>
 </figure>
